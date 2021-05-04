@@ -1,0 +1,15 @@
+{
+    "common": {
+      "select_lang": "Language"
+    },
+    "login": {
+      "title": "Login KPI SYSTEM",
+      "buttons": {
+        "login": "Login"
+      },
+      "input_text": {
+        "username": "username",
+        "password": "password"
+      }
+    }
+  }

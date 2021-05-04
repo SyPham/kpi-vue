@@ -1,0 +1,15 @@
+{
+    "common": {
+      "select_lang": "Ngôn ngữ"
+    },
+    "login": {
+      "title": "Đăng nhập vào KPI SYSTEM",
+      "buttons": {
+        "login": "Đăng nhập"
+      },
+      "input_text": {
+        "username": "Tài khoản",
+        "password": "Mật khẩu"
+      }
+    }
+  }
